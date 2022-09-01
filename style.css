@@ -884,7 +884,7 @@ p.lead {
 }
 .portfolio-block:hover .portfolio-caption .btn-stack-overflow {
   -webkit-animation-name: fadeInRight;
-  animation-name: fadeInRight;
+ animation-name: fadeInRight;
   -webkit-animation-delay: 200ms;
   animation-delay: 200ms;
 }
@@ -896,4 +896,9 @@ p.lead {
 
 .redes {
   color: white;
+}
+
+.icon {
+  margin-left: 20PX;
+  margin-right: 20px;
 }
