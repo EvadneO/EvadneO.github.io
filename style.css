@@ -901,4 +901,5 @@ p.lead {
 .icon {
   margin-left: 20PX;
   margin-right: 20px;
+  padding: auto;
 }
